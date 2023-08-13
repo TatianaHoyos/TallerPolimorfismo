@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerPolimorfismo", "TallerPolimorfismo\TallerPolimorfismo.csproj", "{4DF775FA-E80C-411E-B98F-65B4D55EADF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF775FA-E80C-411E-B98F-65B4D55EADF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF775FA-E80C-411E-B98F-65B4D55EADF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF775FA-E80C-411E-B98F-65B4D55EADF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF775FA-E80C-411E-B98F-65B4D55EADF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B1840C-2269-4629-918B-A8540C2C48F4}
+	EndGlobalSection
+EndGlobal
